@@ -1,0 +1,12 @@
+*{
+    font-family: sans-serif;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 14%;
+    border: solid 2px yellow;
+    margin-top: 1%;
+}
